@@ -127,6 +127,6 @@ El archivo `.env.example` **no debe contener valores reales**, solo las claves.
 
 ## Autor
 
-**Desarrollado por:** [Tu nombre o equipo]  
+**Desarrollado por:** Jeslly Tellez  
 **Fecha:** Noviembre 2025  
 **Repositorio:** [https://github.com/tuusuario/tu-repo-backend](https://github.com/tuusuario/tu-repo-backend)
