@@ -99,7 +99,7 @@ Se verificó el correcto funcionamiento de los siguientes endpoints:
 3. **PUT /api/paquetes/:id** → Actualización del estado de un paquete.  
 4. **GET /api/repartidores/ubicaciones** → Consulta de ubicaciones actuales.
 
-**Video de Demostración:** [Enlace al video de prueba de la API (máx. 3 min)](https://)
+**Video de Demostración:** https://drive.google.com/file/d/1jWAJ50m7BFT-pAobUSpuP1nMfaLivnXB/view?usp=sharing
 
 ---
 
